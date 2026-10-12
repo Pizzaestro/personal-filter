@@ -1,42 +1,30 @@
 ! Title: Personal Filter
 ! Description: 개인용 웹페이지 요소 숨김 필터
-! Version: 1.4
+! Version: 1.5
 ! Homepage: https://github.com/Pizzaestro/personal-filter
-! Last modified: 2026-10-11 00:34 KST
+! Last modified: 2026-10-12 22:01 KST
 
-shopping.naver.com##._recommendKeyword_mobile_recommend_keyword_3rpMd
-shopping.naver.com##._carouselProductList_mobile_carousel_product_list_qLWtw
-namu.wiki##div.LUPp6ute.jvijSD0m
-namu.wiki##._0TQEV0Ph._4gYg9gay.YTw0PtzY
-namu.wiki##div.LUPp6ute.jvijSD0m.TELwN17p
-www.threads.com##.__fb-dark-mode.x1n2onr6.xzkaem6
-yasyadong03.tv##.footer
 hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
 hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__inGrid
 hiromi.fans##.AdBand-module__-GoSlG__top
 javtiful.com##.front-feature-placement.front-feature-placement-side
 javtiful.com##.front-watch-text-feature
 m.cafe.naver.com##._root_t59rx_20
-m.cafe.naver.com##.CardWrap.home_favorites
-m.cafe.naver.com##.CardWrap.home_location
-m.cafe.naver.com##.CardWrap.home_popular_articles
-m.cafe.naver.com##.CardWrap.home_recommend
-m.cafe.naver.com##.CardWrap.home_section_promotion
-m.cafe.naver.com##.CardWrap.home_visit_cafe
-m.cafe.naver.com##div.HomeFeedItem
 m.dcinside.com###auto_picture_area
 m.dcinside.com##.adv-group.pwlink
 m.dcinside.com##.adv-groupin
 m.dcinside.com##.adv-inner
-m.dcinside.com##[id^="reple_dori_txt_"]
 m.dcinside.com##.gall-thum-btm-inner > .adv-group.pwlink
 m.dcinside.com##.outside-search-box
+m.dcinside.com##.view-btm-con
+m.dcinside.com##[id^="reple_dori_txt_"]
 m.dcinside.com##section.grid > .md-tit-box
 m.dcinside.com##section.grid.clkhigh
-m.dcinside.com##.view-btm-con
 m.naver.com###MM_homefeed_react_root
-m.naver.com##.section_notice
 m.naver.com##.section_service
-m.place.naver.com##.irs3u.J3qoX
+shopping.naver.com##._carouselProductList_mobile_carousel_product_list_qLWtw
+shopping.naver.com##._recommendKeyword_mobile_recommend_keyword_3rpMd
+www.threads.com##.__fb-dark-mode.x1n2onr6.xzkaem6
 www.xfree.com##.swiper-wrapper
+yasyadong03.tv##.footer
 yasyadong03.tv##.row.top-ad-padding
