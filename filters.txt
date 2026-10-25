@@ -1,8 +1,8 @@
 ! Title: Personal Filter
 ! Description: 개인용 웹페이지 요소 숨김 필터
-! Version: 1.5
+! Version: 1.5.1
 ! Homepage: https://github.com/Pizzaestro/personal-filter
-! Last modified: 2026-10-12 22:01 KST
+! Last modified: 2026-10-25 18:38 KST
 
 hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
 hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__inGrid
@@ -20,8 +20,8 @@ shopping.naver.com##._carouselProductList_mobile_carousel_product_list_qLWtw
 shopping.naver.com##._recommendKeyword_mobile_recommend_keyword_3rpMd
 www.threads.com##.__fb-dark-mode.x1n2onr6.xzkaem6
 www.xfree.com##.swiper-wrapper
-yasyadong03.tv##.footer
-yasyadong03.tv##.row.top-ad-padding
+yasyadong04.tv##.footer
+yasyadong04.tv##.row.top-ad-padding
 m.dcinside.com###auto_picture_area
 m.dcinside.com##.adv-group.pwlink
 m.dcinside.com##.adv-groupin
