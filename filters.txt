@@ -1,34 +1,19 @@
 ! Title: Personal Filter
 ! Description: 개인용 웹페이지 요소 숨김 필터
-! Version: 1.5.1
+! Version: 1.5.2
 ! Homepage: https://github.com/Pizzaestro/personal-filter
-! Last modified: 2026-10-25 18:38 KST
+! Last modified: 2026-10-31 21:55 KST
 
-hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
-hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__inGrid
-hiromi.fans##.AdBand-module__-GoSlG__top
-javtiful.com##.front-feature-placement.front-feature-placement-side
-javtiful.com##.front-watch-text-feature
-m.cafe.naver.com##._root_t59rx_20
-m.cafe.naver.com##.tira-inapp-message-container
+m.dcinside.com##section.grid > .md-tit-box
 m.dcinside.com##.outside-search-box
 m.dcinside.com##.view-btm-con
-m.dcinside.com##section.grid > .md-tit-box
+namu.wiki##div.PDnRnjBD._0JjeQz1V.On2j0myx
+hitomi.la##.xjLLsKbGGfGQ5Nu
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard
+hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard.AdBand-module__-GoSlG__inGrid
+hiromi.fans##.AdBand-module__-GoSlG__top > .AdBand-module__-GoSlG__row
+m.cafe.naver.com##._root_t59rx_20
 m.naver.com###MM_homefeed_react_root
-m.naver.com##.section_service
-shopping.naver.com##._carouselProductList_mobile_carousel_product_list_qLWtw
-shopping.naver.com##._recommendKeyword_mobile_recommend_keyword_3rpMd
-www.threads.com##.__fb-dark-mode.x1n2onr6.xzkaem6
-www.xfree.com##.swiper-wrapper
 yasyadong04.tv##.footer
 yasyadong04.tv##.row.top-ad-padding
-m.dcinside.com###auto_picture_area
-m.dcinside.com##.adv-group.pwlink
-m.dcinside.com##.adv-groupin
-m.dcinside.com##.adv-inner
-m.dcinside.com##.gall-thum-btm-inner > .adv-group.pwlink
-m.dcinside.com##.outside-search-box
-m.dcinside.com##.view-btm-con
-m.dcinside.com##[id^="reple_dori_txt_"]
-m.dcinside.com##section.grid > .md-tit-box
-m.dcinside.com##section.grid.clkhigh
