@@ -4,16 +4,26 @@
 ! Homepage: https://github.com/Pizzaestro/personal-filter
 ! Last modified: 2026-10-31 21:55 KST
 
-m.dcinside.com##section.grid > .md-tit-box
+hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard.AdBand-module__-GoSlG__inGrid
+hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__inGrid
+hiromi.fans##.AdBand-module__-GoSlG__top
+hiromi.fans##.AdBand-module__-GoSlG__top > .AdBand-module__-GoSlG__row
+hitomi.la##.xjLLsKbGGfGQ5Nu
+m.cafe.naver.com##._root_t59rx_20
+m.cafe.naver.com##.tira-inapp-message-container
+m.dcinside.com###auto_picture_area
+m.dcinside.com##.adv-group.pwlink
+m.dcinside.com##.adv-groupin
+m.dcinside.com##.adv-inner
+m.dcinside.com##.gall-thum-btm-inner > .adv-group.pwlink
 m.dcinside.com##.outside-search-box
 m.dcinside.com##.view-btm-con
-namu.wiki##div.PDnRnjBD._0JjeQz1V.On2j0myx
-hitomi.la##.xjLLsKbGGfGQ5Nu
-hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard
-hiromi.fans##.AdBand-module__-GoSlG__footer > .AdBand-module__-GoSlG__row
-hiromi.fans##.AdBand-module__-GoSlG__infeed.AdBand-module__-GoSlG__asCard.AdBand-module__-GoSlG__inGrid
-hiromi.fans##.AdBand-module__-GoSlG__top > .AdBand-module__-GoSlG__row
-m.cafe.naver.com##._root_t59rx_20
+m.dcinside.com##[id^="reple_dori_txt_"]
+m.dcinside.com##section.grid > .md-tit-box
+m.dcinside.com##section.grid.clkhigh
 m.naver.com###MM_homefeed_react_root
+namu.wiki##div.PDnRnjBD._0JjeQz1V.On2j0myx
 yasyadong04.tv##.footer
 yasyadong04.tv##.row.top-ad-padding
